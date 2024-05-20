@@ -5,4 +5,3 @@
 - Comment section will be composed of `Card` components, which will be composed of smaller `Header` and `Body` child components.
 
 ## Result
-![img.png](img.png)
